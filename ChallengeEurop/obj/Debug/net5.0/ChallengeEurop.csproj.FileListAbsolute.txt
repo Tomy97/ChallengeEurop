@@ -1,0 +1,16 @@
+C:\Users\tomas\Desktop\ChallengeEurop\ChallengeEurop\bin\Debug\net5.0\ChallengeEurop.exe
+C:\Users\tomas\Desktop\ChallengeEurop\ChallengeEurop\bin\Debug\net5.0\ChallengeEurop.deps.json
+C:\Users\tomas\Desktop\ChallengeEurop\ChallengeEurop\bin\Debug\net5.0\ChallengeEurop.runtimeconfig.json
+C:\Users\tomas\Desktop\ChallengeEurop\ChallengeEurop\bin\Debug\net5.0\ChallengeEurop.runtimeconfig.dev.json
+C:\Users\tomas\Desktop\ChallengeEurop\ChallengeEurop\bin\Debug\net5.0\ChallengeEurop.dll
+C:\Users\tomas\Desktop\ChallengeEurop\ChallengeEurop\bin\Debug\net5.0\ref\ChallengeEurop.dll
+C:\Users\tomas\Desktop\ChallengeEurop\ChallengeEurop\bin\Debug\net5.0\ChallengeEurop.pdb
+C:\Users\tomas\Desktop\ChallengeEurop\ChallengeEurop\obj\Debug\net5.0\ChallengeEurop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\ChallengeEurop\ChallengeEurop\obj\Debug\net5.0\ChallengeEurop.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\ChallengeEurop\ChallengeEurop\obj\Debug\net5.0\ChallengeEurop.AssemblyInfo.cs
+C:\Users\tomas\Desktop\ChallengeEurop\ChallengeEurop\obj\Debug\net5.0\ChallengeEurop.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\ChallengeEurop\ChallengeEurop\obj\Debug\net5.0\ChallengeEurop.dll
+C:\Users\tomas\Desktop\ChallengeEurop\ChallengeEurop\obj\Debug\net5.0\ref\ChallengeEurop.dll
+C:\Users\tomas\Desktop\ChallengeEurop\ChallengeEurop\obj\Debug\net5.0\ChallengeEurop.pdb
+C:\Users\tomas\Desktop\ChallengeEurop\ChallengeEurop\obj\Debug\net5.0\ChallengeEurop.genruntimeconfig.cache
+C:\Users\tomas\Desktop\ChallengeEurop\ChallengeEurop\obj\Debug\net5.0\ChallengeEurop.csprojAssemblyReference.cache
